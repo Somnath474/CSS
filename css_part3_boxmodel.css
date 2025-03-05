@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 550px;
+    background-color: blueviolet;
+    border: 5px solid black;
+    border-left-color:rgb(20, 19, 17);
+    border-top: 5px solid #090c09;
+    border-top-right-radius:10px ;
+   
+}
