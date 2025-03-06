@@ -1,0 +1,10 @@
+section{
+    height: 400px;
+    width: 100px;
+    
+    margin-left:50% ;
+    text-align: center;
+}
+div{
+    font-size: 3em;
+}
